@@ -1,0 +1,112 @@
+.logo {
+    text-align: center;
+    margin: 25% 0 25% 0;
+    
+    
+}
+.logo-h1 {
+    font-size: 53px;
+    color: seashell;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: 1s all;
+    font-family: 'Ramaraja', serif;
+    position: relative;
+    z-index: 1;
+}
+
+.logo-h1:hover {
+    font-size: 63px;
+    color:rgb(212, 26, 26) ;
+    text-shadow: 13px 13px 9px rgb(32, 32, 32);
+    animation: 1s;
+
+}
+    .menu {
+        margin: 190px 0 0 55px;
+        z-index: 1;
+        position: relative;
+        
+        
+    }
+
+
+    .menu a {
+       text-decoration: none;
+       color: white;
+
+    }
+
+    .menu a:hover {
+        text-decoration: underline white;
+    }
+
+    .banner {
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+
+    .videoum {
+        position: fixed;
+        object-fit: cover;
+        top: 0;
+        left: 0;
+        width: 100%;
+
+    }
+
+.listaum {
+    border: solid;
+    padding: 20px;
+    display: inline;
+    border-radius: 70px;
+    margin: 0 40px 0 0;
+    text-align: center;
+    color: white;
+    border-color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    transition: 1s ;
+    
+
+}
+
+.listaum:hover {
+    font-size: 28px;
+    background: rgb(212, 26, 26);
+    padding: 28px;
+
+
+}
+
+@media screen and (max-width: 480px) {
+    main {
+        width: 100%;
+        margin: auto;
+    }
+    
+    .videoum {
+        margin: auto;
+        height: 100%;
+    }
+    .menu {
+        margin: 12px 0 10px 0 ;
+        padding: 25px;
+
+
+    }
+
+
+    .listaum {
+        display: block;
+        margin: 0 0 18px 0;
+        text-align: center;
+    }
+}
+
+
+

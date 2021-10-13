@@ -1,0 +1,388 @@
+body {
+    background: url("Design\ sem\ nome\ \(3\).jpg")
+    
+}
+
+#menuuu {
+    margin: 70px 0 0 0;
+    text-align: center;
+}
+
+.sobreum {
+    padding: 80px;
+}
+
+
+
+.hdois {
+
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    padding: 1px 0 70px 0;
+    text-shadow: 14px 14px 4px rgb(14, 13, 13) ;
+    transition: 1s;
+    z-index: 1;
+    position: relative;
+}
+
+.hdois:hover {
+    font-size: 50px;
+    text-shadow: 14px 14px 4px rgb(14, 13, 13);
+    color: rgb(212, 26, 26);
+}
+
+.pum {
+    color: white;
+    font-size: 20px;
+    display: inline;
+    line-height: 30px;
+    transition: 1s all ;
+    
+
+}
+
+.pum:hover {
+    font-size: 23px;
+    color: whitesmoke;
+}
+
+.videoima {
+    width: 410px;
+    right: 0;
+    top: 0;
+    float: right;
+    margin: -410px 35px 100px 0;
+    box-shadow: 17px 17px 14px #000000;
+}
+
+.sobredois {
+    padding: 80px;
+}
+
+
+.equipe {
+    width:350px;
+}
+
+.office {
+    width: 50%;
+    float:left;
+    margin: -320px 0 70px 20px;
+    box-shadow: 17px 17px 14px #000000;
+    
+}
+
+
+.pdois {
+    color: white;
+    text-align: right;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0 80px 0 0;
+    height: 20px;
+    
+}
+.sobrelista {
+    color: white;
+    font-size: 20px;
+    text-align: right;
+    margin: 70px 0 0 0;
+    
+
+}
+
+.listasobre {
+    font-size: 28px;
+    line-height: 78px;
+    text-shadow: 14px 14px 5px #050505;
+    transition: 1s;
+}
+    
+.listasobre:hover {
+    font-size: 33px ;
+    text-shadow: 17px 17px 8px #0c0b0b;
+}
+
+.sobretres {
+    text-align: center;
+    padding: 70px;
+}
+
+.frase {
+    font-size: 19px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.listadoissobre {
+    display: inline;
+    width: 20%;
+}
+
+.lissobre {
+    display: inline;
+    
+}
+
+
+
+.clientes {
+    width: 150px;
+    transition: 1s;
+}
+.clientes:hover {
+
+    width: 190px;
+    
+}
+
+.pdalistadois {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+    transition: 1s;
+}
+.pdalistadois:hover {
+    font-size: 27px;
+}
+
+.sobrerodape {
+    text-align: center;
+    padding: 100px 0 50px 0;
+}
+
+.prodape {
+    color: white;
+    font-size: 19px;
+    z-index: 1;
+    position: relative;
+}
+
+
+
+
+
+
+.sobrenoticia {
+      padding: 80px 50px 5px 50px;
+}
+.noticiadiv {
+    padding: 20px;
+}
+.divnoticia {
+    padding: 20px;
+}
+.noticiap {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    border:solid;
+    padding: 13px 0 13px 0;
+    border-bottom: solid;
+    width: 33%;
+    text-align: center;
+    margin: 30px 0 30px 410px;
+    background: rgb(212, 26, 26) ;
+    box-shadow: 12px 12px 8px #000000;
+    transition: 1s;
+
+    
+}
+
+.noticiap:hover  {
+    font-size: 25px;
+    padding: 15px;
+}
+
+.noticia {
+    text-align:center;
+    padding: 25px;
+}
+.notifoto {
+    box-shadow: 12px 12px 8px #000000;
+    
+}
+
+
+#bodycontrato {
+    background: #000000;
+}
+
+.contratosec {
+    padding: 100px;
+}
+
+.contratop {
+    color: white;
+    width: 50%;
+    font-size: 28px;
+    z-index: 1;
+    position: relative;
+    padding: 10px;
+    text-shadow: 10px 10px 8px #000000;
+    transition: 1s;
+}
+
+
+
+.contratoul {
+    padding: 25px;
+}
+
+.contratolis {
+    color:white;
+    z-index: 1;
+    position: relative;
+    line-height: 35px;
+    font-size: 22px;
+    text-shadow: 14px 14px 5px #000000;
+    transition: 1s;
+}
+.contratolis:hover {
+    font-size: 40px;
+
+}
+.contsecc {
+    z-index: 1;
+    position: relative;
+}
+
+.conlili {
+    
+    border: solid white;
+    padding: 30px;
+    width: 40%;
+    margin: 28px 0;
+    transition: 1s;
+    background: rgb(245, 22, 22)
+    
+}
+.conlili:hover {
+    padding: 35px;
+    background: red;
+}
+
+.conulul {
+    text-align: center;
+    margin: -70px 0 0 460px;
+}
+
+.conlili a {
+    text-decoration: none;
+    color: white;
+}
+
+.conh2 {
+    text-align: center;
+    font-size: 45px;
+    text-decoration: underline;
+    transition: 1s;
+}
+.conh2:hover {
+    font-size: 52px;
+    
+}
+
+.comp {
+    width: 80%;
+    text-align: center;
+    margin: 6px 0 0 40px;
+    font-size: 28px;
+    transition: 1s;
+}
+
+
+
+@media screen and (max-width: 480px) {
+    .hdois {
+        font-size: 35px;
+    }
+
+    .sobreum {
+        padding: 5px;
+    }
+    .pum {
+        width: 5%;
+        padding: 10px;
+        text-align: center;
+    }
+    .videoima {
+        width: 70%;
+        float: none;
+        top: 10px;
+        margin: 50px 50px;
+    }
+    .pdois {
+        font-size: 20px;
+        text-align: center;
+        margin: 0 0 0 10px;
+    }
+    .office {
+        width: 95%;
+        margin: 50px 20px;
+    }
+    .listasobre {
+        text-align: center;
+    }
+    .pdalistadois {
+        margin: 35px 0 0 0;
+    }
+    .sobrelista {
+        line-height: 4px;
+        margin: 30px 0 0 0;
+    }
+    .listasobre {
+        line-height: 42px;
+    }
+    .noticiadiv {
+        margin: auto;
+        width: auto;
+    }
+    .noticiap {
+        margin: 0 0 20px 0;
+        width: 75%;
+        font-size: 15px;
+        padding: 5px;
+
+    }
+    .noticia {
+
+        margin: auto;
+    }
+    .notifoto {
+        width: 310px;
+        height: 190px;
+    }
+    .contratop {
+        font-size: 25px;
+        width: 98%;
+    }
+    
+    .contratosec {
+        padding: 10px;
+    }
+
+    .conulul {
+        margin: auto;
+    }
+    .conlili {
+        width: 70%;
+        margin: 25px;
+    }
+    .comp {
+        font-size: 18px;
+    }
+    .conh2 {
+        font-size: 32px;
+    }
+    .sobrerodape {
+        padding: 20px;
+    }
+
+}
+
+
